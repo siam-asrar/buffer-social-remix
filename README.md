@@ -116,4 +116,4 @@ Return a confirmation message summarizing the completed final action (e.g., post
 ```
 
 
-Fore More: https://github.com/siam-asrar/buffer-social-remix.wiki.git
+Fore More: [!https://github.com/siam-asrar/buffer-social-remix/wiki](https://github.com/siam-asrar/buffer-social-remix.wiki.git)
