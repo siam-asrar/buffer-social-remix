@@ -7,6 +7,10 @@ Hard to verify effectiveness without data.
 Spans multiple systems, with  a need for follow up, scheduling metadata, and/or optional image prompts. 
 ```
 
+# Solution [Email Send & Image Gen Pending]
+
+https://6913570baa6cb71a3d68ee63--buffer-social-remix.netlify.app/
+
 # Core Features:
 
 ```Markdown
