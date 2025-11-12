@@ -9,7 +9,9 @@ Spans multiple systems, with  a need for follow up, scheduling metadata, and/or 
 
 # Solution [Email Send & Image Gen Pending]
 
-https://6913570baa6cb71a3d68ee63--buffer-social-remix.netlify.app/
+
+# [Social Media Content](https://6913570baa6cb71a3d68ee63--buffer-social-remix.netlify.app/)
+
 
 # Core Features:
 
@@ -116,7 +118,8 @@ Return a confirmation message summarizing the completed final action (e.g., post
 ```
 
 
-Checkout: 
+# Checkout: [Quick API Revamp + Explainer ](https://github.com/siam-asrar/buffer-social-remix/wiki)
 
+# Copilot Eg
 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/eb7093f9-3c72-47d2-a10d-3fb0503143bd" />
 
