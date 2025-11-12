@@ -7,7 +7,7 @@ Hard to verify effectiveness without data.
 Spans multiple systems, with  a need for follow up, scheduling metadata, and/or optional image prompts. 
 ```
 
-# Solution [Email Send & Image Gen Pending]
+# Solution: [Email Send & Image Gen Pending]
 
 
 # [Social Media Content](https://6913570baa6cb71a3d68ee63--buffer-social-remix.netlify.app/)
@@ -24,10 +24,6 @@ Spans multiple systems, with  a need for follow up, scheduling metadata, and/or 
 - Email Integration: Send generated posts to a specified email address with CSV attachment using production grade integration
 - LLM Content Generation: Leverage LLMs, via Genkit, to generate world-usable content, using Gemini as fallback.
 ```
-
-
-```
-
 
 # Checkout: 
 
