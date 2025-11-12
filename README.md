@@ -117,8 +117,8 @@ Final Output
 Return a confirmation message summarizing the completed final action (e.g., posted, emailed, or exported successfully).
 ```
 
-
-# Checkout: [Quick API Revamp + Explainer ](https://github.com/siam-asrar/buffer-social-remix/wiki)
+# Checkout: 
+[Quick API Revamp + Explainer ](https://github.com/siam-asrar/buffer-social-remix/wiki)
 
 # Copilot Eg
 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/eb7093f9-3c72-47d2-a10d-3fb0503143bd" />
